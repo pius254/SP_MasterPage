@@ -1,12 +1,12 @@
 #carouselExampleIndicators{
-	padding-top: 65px;
+	padding-top: 65px !important;
 }
 
-/*.fa{
-	color: white;
+.fa{
+	color: white !important;
 }
 
-.d-block{
+/*.d-block{
 	display: block!important;
 }
 
